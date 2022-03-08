@@ -39,29 +39,29 @@
 |Date||Schedule||
 |:---------:|:--------------:|:--------------:|:--------------:|
 |||*__March__*||
-|10.03|&#x1F536;| Preliminary meeting, Divide people into groups, Organization  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     |&#x1F536;|
-|17.03|&#x1F536;| Quick Tutorials, Requirements Workshop, Sprint Planning 1 |&#x1F536;|
-|22.03|&#x1F4D8;| Sprint Planning 1 Completed in Zenhub |&#x1F4D8;|
-|24.03|&#x1F539; |   Individual Group Meetings                                                                    |&#x1F539;|
-|31.03| |-- | |                                                                     |
+|08.03|&#x1F536;| Preliminary meeting, Divide people into groups, Organization  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     |&#x1F536;|
+|15.03|&#x1F536;| Quick Tutorials, Requirements Workshop, Sprint Planning 1 |&#x1F536;|
+|20.03|&#x1F4D8;| Sprint Planning 1 Completed in Zenhub |&#x1F4D8;|
+|22.03|&#x1F539; |   Individual Group Meetings                                                                    |&#x1F539;|
+|29.03| |-- | |                                                                     |
 |||*__April__*||
-|05.04|&#x1F4D8;| Tuesday 12.00 - Release 1 |  &#x1F4D8;|
-|07.04|&#x1F536; |Release 1 Review, Sprint Planning 2 |&#x1F536;|
-|14.04|&#x1F53A; |Easter holidays |&#x1F53A; |
-|21.04|&#x1F53A; |Easter holidays |&#x1F53A; |
-|28.04|&#x1F539; |Individual Group Meetings| &#x1F539;|
+|03.04|&#x1F4D8;| Sunday 12.00 - Release 1 |  &#x1F4D8;|
+|05.04|&#x1F536; |Release 1 Review, Sprint Planning 2 |&#x1F536;|
+|12.04|&#x1F53A; |Easter holidays |&#x1F53A; |
+|19.04|&#x1F53A; |Easter holidays |&#x1F53A; |
+|26.04|&#x1F539; |Individual Group Meetings| &#x1F539;|
 |||*__May__*||
-|05.05||--||
-|10.05|&#x1F4D8;| Tuesday 12.00 - Release 2 |&#x1F4D8;|
-|12.05|&#x1F536;| Release 2 Review, Sprint Planning 3 |&#x1F536;|
-|19.05||--||
-|26.05|&#x1F539; | Individual Group Meetings / Code Review| &#x1F539;|
+|03.05||--||
+|08.05|&#x1F4D8;| Sunday 12.00 - Release 2 |&#x1F4D8;|
+|10.05|&#x1F536;| Release 2 Review, Sprint Planning 3 |&#x1F536;|
+|17.05||--||
+|24.05|&#x1F539; | Individual Group Meetings / Code Review| &#x1F539;|
+|31.05|&#x1F539;| Qapture: Digital Twin of the Room? |&#x1F539;|
 |||*__June__*||
-|02.06|&#x1F539;| Qapture: Digital Twin of the Room? |&#x1F539;|
-|09.06|&#x1F539;| Qapture: Digital Twin of the Room?|&#x1F539;|
-|16.06|&#x1F539;|Qapture: Digital Twin of the Room?|&#x1F539;|
-|21.06|&#x1F4D8;| Tuesday 12.00 - Release 3| &#x1F4D8;|
-|23.06|&#x1F536;| Release 3 Review, Final Presentation |&#x1F536;|
+|07.06|&#x1F539;| Qapture: Digital Twin of the Room?|&#x1F539;|
+|14.06|&#x1F539;|Qapture: Digital Twin of the Room?|&#x1F539;|
+|19.06|&#x1F4D8;| Sunday 12.00 - Release 3| &#x1F4D8;|
+|21.06|&#x1F536;| Release 3 Review, Final Presentation |&#x1F536;|
 |||*__July__*||
 |07.07|&#x1F4D8;| Final Project Delivery |&#x1F4D8;|
 
