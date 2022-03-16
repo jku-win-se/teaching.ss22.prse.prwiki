@@ -16,7 +16,7 @@
 
 [UML Tools](/wiki/uml/README.md) 
 
-[Database Modeling Tools](/wiki/database_modeling/README.md) 
+[Database Modeling Tools](/wiki/database_modeling/readme.md) 
 
 [UI Prototyping Tools](/wiki/uiprototype/README.md) 
 
