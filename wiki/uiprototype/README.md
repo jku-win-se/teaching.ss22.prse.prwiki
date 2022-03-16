@@ -14,6 +14,8 @@ Comparison of several tools: https://www.mockplus.com/blog/post/free-quick-wiref
 
 URL: https://gluonhq.com/products/scene-builder/
 
+Minimal Running Example (as Eclipse Project): [File smart.room.ui.zip](./smart.room.ui.zip)
+
 ### Pencil Project
 
 URL: https://pencil.evolus.vn/
